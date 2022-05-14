@@ -1,11 +1,4 @@
-# Visions of Escher
-
-# Concept
-
-* Based on 'Eye' by M.C. Escher
-* Generatively-produced iris
-* Generatively-produced central image of a skull
-* The piece is generated over 360 frames
+# Mapped Orbits for Unbound Electrons
 
 ## To use this:
 
