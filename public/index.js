@@ -41,7 +41,7 @@ var screenSize;
 // Testing
 TESTMODE = false;
 RENDERCOUNT = 0;
-RENDERSREQUIRED = 16;
+RENDERSREQUIRED = 8;
 
 // Resolution independence
 var fullRes = 2048;
